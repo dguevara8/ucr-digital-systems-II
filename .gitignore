@@ -1,0 +1,4 @@
+#Para ignorar archivos de vim
+~*
+*.vcd
+*_salida
