@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.120 (w)1999-2024 BSI
+[*] Sun Dec  1 01:15:06 2024
+[*]
+[dumpfile] "/home/fran/git/2S2024_G2/transmit.vcd"
+[dumpfile_mtime] "Sun Dec  1 01:06:59 2024"
+[dumpfile_size] 6923
+[savefile] "/home/fran/git/2S2024_G2/src/TRANSMIT/tx_wave_setup.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -101 -101
+*-4.079652 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] transmit_testbench.
+[sst_width] 273
+[signals_width] 218
+[sst_expanded] 1
+[sst_vpaned_height] 296
+@200
+-------ENTRADAS------
+@28
+[color] 1
+transmit_testbench.DUT_TX.GTX_CLK
+[color] 1
+transmit_testbench.DUT_TX.mr_main_reset
+@22
+[color] 1
+transmit_testbench.DUT_TX.TXD[7:0]
+@28
+[color] 1
+transmit_testbench.DUT_TX.TX_EN
+@200
+-------SALIDAS------
+@23
+[color] 6
+transmit_testbench.DUT_TX.TX_CODE_GROUP[9:0]
+@200
+-------INTERNAS------
+@22
+transmit_testbench.DUT_TX.TX_O_SET[3:0]
+@28
+transmit_testbench.DUT_TX.tx_disparity
+[pattern_trace] 1
+[pattern_trace] 0
