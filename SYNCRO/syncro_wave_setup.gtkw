@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.120 (w)1999-2024 BSI
+[*] Sun Dec  1 01:53:36 2024
+[*]
+[dumpfile] "/home/fran/git/2S2024_G2/src/SYNCRO/sincronizador.vcd"
+[dumpfile_mtime] "Sun Dec  1 01:53:25 2024"
+[dumpfile_size] 4233
+[savefile] "/home/fran/git/2S2024_G2/src/SYNCRO/syncro_wave_setup.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-4.051907 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] sincronizador_testbench.
+[sst_width] 273
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@200
+-------ENTRADAS------
+@28
+[color] 1
+sincronizador_testbench.DUT.GTX_CLK
+[color] 1
+sincronizador_testbench.DUT.mr_main_reset
+@22
+[color] 1
+sincronizador_testbench.DUT.PUDI[9:0]
+@28
+[color] 1
+sincronizador_testbench.DUT.signal_detect
+@200
+-------SALIDAS------
+@29
+[color] 6
+sincronizador_testbench.DUT.CODE_SYNC_STATUS
+@23
+[color] 6
+sincronizador_testbench.DUT.SUDI[10:0]
+@200
+-------INTERNAS------
+@28
+sincronizador_testbench.DUT.data_detected_wire
+sincronizador_testbench.DUT.good_cgs
+@22
+sincronizador_testbench.DUT.state[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
