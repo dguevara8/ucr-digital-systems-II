@@ -1,0 +1,78 @@
+[*]
+[*] GTKWave Analyzer v3.3.120 (w)1999-2024 BSI
+[*] Sun Dec  1 03:18:48 2024
+[*]
+[dumpfile] "/home/fran/git/2S2024_G2/src/PCS.vcd"
+[dumpfile_mtime] "Sun Dec  1 03:16:28 2024"
+[dumpfile_size] 19563
+[savefile] "/home/fran/git/2S2024_G2/src/pcs_wave_setup.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] -1 -1
+*-4.504958 154 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] PCS_testbench.
+[treeopen] PCS_testbench.DUT_PCS.
+[treeopen] PCS_testbench.DUT_PCS.TX.
+[sst_width] 273
+[signals_width] 214
+[sst_expanded] 1
+[sst_vpaned_height] 263
+@200
+-------ENTRADAS------
+@28
+[color] 1
+PCS_testbench.DUT_PCS.GTX_CLK
+[color] 1
+PCS_testbench.DUT_PCS.RTX_CLK
+[color] 1
+PCS_testbench.DUT_PCS.TX_EN
+@22
+[color] 1
+PCS_testbench.DUT_PCS.TXD[7:0]
+[color] 1
+PCS_testbench.DUT_PCS.RX_CODE_GROUP[9:0]
+@200
+-------SALIDAS------
+@22
+[color] 6
+PCS_testbench.DUT_PCS.TX.TX_CODE_GROUP[9:0]
+[color] 6
+PCS_testbench.DUT_PCS.RXD[7:0]
+@200
+-------INTERNAS RX------
+@28
+[color] 2
+PCS_testbench.DUT_PCS.RX.comma_detected_wire
+[color] 2
+PCS_testbench.DUT_PCS.RX.running_disparity
+[color] 2
+PCS_testbench.DUT_PCS.RX.data_detected_wire
+@22
+[color] 2
+PCS_testbench.DUT_PCS.RX.SUDI[10:0]
+[color] 2
+PCS_testbench.DUT_PCS.RX.TX_PACKET[9:0]
+@28
+[color] 2
+PCS_testbench.DUT_PCS.RX.state[2:0]
+@200
+-------INTERNAS TX------
+@22
+[color] 3
+PCS_testbench.DUT_PCS.TX.TX_O_SET[3:0]
+@28
+[color] 3
+PCS_testbench.DUT_PCS.TX.TRANSMIT_ORDERED_SET.state_or[2:0]
+[color] 3
+PCS_testbench.DUT_PCS.TX.TRANSMIT_CODE_BLOCKS.state_cb[2:0]
+[color] 3
+PCS_testbench.DUT_PCS.TX.TRANSMIT_CODE_BLOCKS.running_disparity
+@200
+-------INTERNAS SX------
+@22
+PCS_testbench.DUT_PCS.SINCRO.state[3:0]
+@28
+PCS_testbench.DUT_PCS.SINCRO.data_detected_wire
+PCS_testbench.DUT_PCS.SINCRO.CODE_SYNC_STATUS
+[pattern_trace] 1
+[pattern_trace] 0
