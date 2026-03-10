@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.120 (w)1999-2024 BSI
+[*] Sun Dec  1 02:27:39 2024
+[*]
+[dumpfile] "/home/fran/git/2S2024_G2/src/RECEIVER/receiver.vcd"
+[dumpfile_mtime] "Sun Dec  1 02:18:52 2024"
+[dumpfile_size] 3601
+[savefile] "/home/fran/git/2S2024_G2/src/RECEIVER/rx_wave_setup.gtkw"
+[timestart] 0
+[size] 1920 1001
+[pos] 0 32
+*-4.159822 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] receptor_testbench.
+[sst_width] 273
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@200
+-------ENTRADAS------
+@28
+[color] 1
+receptor_testbench.DUT.GTX_CLK
+[color] 1
+receptor_testbench.DUT.mr_main_reset
+@22
+[color] 1
+receptor_testbench.DUT.SUDI[10:0]
+@28
+[color] 1
+receptor_testbench.DUT.carrier_detect
+@200
+-------SALIDAS------
+@22
+[color] 6
+receptor_testbench.DUT.RXD[7:0]
+@200
+-------INTERNAS------
+@22
+receptor_testbench.DUT.check_end[29:0]
+@23
+receptor_testbench.DUT.TX_PACKET[9:0]
+@24
+receptor_testbench.DUT.state[2:0]
+@28
+receptor_testbench.DUT.comma_detected_wire
+receptor_testbench.DUT.data_detected_wire
+[pattern_trace] 1
+[pattern_trace] 0
